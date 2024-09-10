@@ -1,5 +1,22 @@
 # Sleep Paralysis
 Real-Time Sleep Paralysis Detection and Intervention System with Sleep Camera, AI, and IoT Integration.
-This thesis project aims to develop a cost-effective real-time sleep paralysis detection and intervention system utilizing sleep camera recordings, AI techniques, and IoT integration. Our objective is to provide an innovative alternative to the current methods such as ECG and sensor based approaches. By harnessing the power of computer vision and AI algorithms, the system aims to accurately identify sleep paralysis episodes and deliver timely interventions in form of custom audio cues and adjusting room temperature to assist patients transitioning out of sleep paralysis. The research will involve the collection of sleep camera recordings from a diverse set of individuals experiencing sleep paralysis. These recordings will be used to train Deep learning models capable of recognizing specific patterns and characteristics associated with sleep paralysis episodes in patients.
 
-The expected results of this research include the development of an efficient and reliable sleep paralysis detection and intervention system. The system's performance will be evaluated through extensive testing and validation, comparing its cost-effectiveness to traditional ECG and sensor-based methods. The conclusions drawn from this research will provide valuable insights into the feasibility and practicality of using sleep camera recordings and AI techniques for real-time sleep paralysis detection and intervention.
+Sleep paralysis is a sleep disorder that is characterized by temporary paralysis and hallucinations during sleep-wake transitions causing distress and impairment in affected individuals. This thesis project aims to address the problem of sleep paralysis by developing a real-time sleep paralysis detection and intervention system. By leveraging computer vision and AI algorithms, the system aims to accurately identify sleep paralysis episodes and provide timely interventions to assist individuals in transitioning out of sleep paralysis. This project seeks to provide a cost-effective alternative by using sleep camera recordings and AI techniques for training and testing purposes. This approach enhances the accessibility and practicality of sleep paralysis management.
+The problem addressed in this thesis project is sleep paralysis and is estimated to affect approximately 7.6% of the population in the world. It can cause distress, anxiety, and impaired daytime functioning, significantly impacting the quality of life of those affected. Individuals with pre-existing sleep disorders, such as narcolepsy (brains inability to control sleep-wake cycles) are also more prone to experiencing sleep paralysis. Various factors such as sleep deprivation, irregular sleep patterns, and stress have been associated with the occurrence of sleep paralysis.
+By addressing the problem of sleep paralysis through this research, we aim to improve the understanding, detection, and management of this sleep disorder, ultimately benefiting the individuals affected by sleep paralysis and advancing the field of sleep medicine.
+
+<b>Aim 1: Develop a real-time sleep paralysis detection system using live camera feed and AI algorithms.</b>
+ 
+Objectives:
+a) Collect a diverse dataset of live camera feed during sleep from individuals experiencing sleep paralysis.
+b) Train and test deep learning models.
+c) Accuratelty recognize and classify sleep paralysis episodes captured in real-time.
+d) Optimize the detection algorithm for efficient and reliable performance.
+
+<b>Aim 2: Design an intervention system integrated with IoT devices for timely assistance during sleep paralysis episodes.</b>
+Objectives:
+a) Investigate and implement personalized interventions, such as custom audio cues and room temperature adjustments, based on real-time detection.
+b) Establish seamless communication between the detection system and IoT devices for immediate intervention delivery.
+c) Evaluate the effectiveness of interventions through user feedback and monitoring of sleep paralysis episodes.
+
+By focusing on live camera feed instead of recorded sleep camera recordings, the system will be able to analyze real-time data to detect sleep paralysis episodes as they occur and enables immediate intervention. This inturn would enhance the system's effectiveness in supporting individuals experiencing sleep paralysis.
